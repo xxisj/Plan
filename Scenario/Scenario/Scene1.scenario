@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+    <EntityList>
+    	<Entity>Entity/Base1.ptf</Entity>
+    	<Entity>Entity/Base2.ptf</Entity>
+    	<Entity>Entity/Target1.ptf</Entity>  
+    	<Entity>Entity/Target2.ptf</Entity> 
+    	<Entity>Entity/Target3.ptf</Entity> 
+    	<Entity>Entity/Target4.ptf</Entity> 
+    	<Entity>Entity/Target5.ptf</Entity> 
+	</EntityList>
+	<AreaList>
+	      <Area>Area/Area_Circle.xml</Area>
+	      <Area>Area/Area_Rect.xml</Area>
+	      <Area>Area/Area_Poly.xml</Area>
+	</AreaList>
+	<Constants>
+		<Attack>4</Attack>
+		<Speed>2</Speed>
+	</Constants>
+</Scenario>

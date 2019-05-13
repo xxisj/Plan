@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+    <Name>BASE1</Name>
+	<!--<Part>RED</Part>-->
+	<Type>BASE</Type><!--BASE/TARGET-->
+	<Init>
+       <Pos>
+	     <Lon>112.965839</Lon>
+		 <Lat>28.206530</Lat>
+		 <Alt>0.0</Alt>
+	   </Pos>
+	   <UavCount>3</UavCount><!--如果为Base，则拥有这个属性-->
+	</Init>
+</Entity>

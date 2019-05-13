@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+    <Name>UAV4</Name>
+	<Part>RED</Part>
+	<ModelName>UAV</ModelName>
+	<Init>
+       <Pos>
+	      <Lon>113.7052</Lon>
+		 <Lat>34.0289</Lat>
+		 <Alt>0.0</Alt>
+	   </Pos>
+	   <Speed>200.0</Speed>
+	   <Head>0.0</Head>
+	</Init>
+	<WeaponList>
+	   <weapon name="ATA" count = "4"/>
+	   <weapon name="ATG" count = "4"/>
+	</WeaponList>
+	<Route>
+	    <Point>
+		    <Lon>120.8</Lon>
+		    <Lat>28.6</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+		 <Point>
+		    <Lon>123.0</Lon>
+		    <Lat>28.3</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+		 <Point>
+		    <Lon>122.0</Lon>
+		    <Lat>27.4</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+	</Route>
+</Entity>

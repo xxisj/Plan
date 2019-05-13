@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Area>
+	<Type>2</Type>
+	<Points>
+		<Point>
+			<Lat>28.216134</Lat>
+			<Lon>112.977567</Lon>
+		</Point>
+		<Point>
+			<Lat>28.205989</Lat>
+			<Lon>112.973922</Lon>
+		</Point>
+		<Point>
+			<Lat>28.205767</Lat>
+			<Lon>112.978505</Lon>
+		</Point>
+	</Points>
+</Area>

@@ -1,0 +1,2 @@
+读取想定的的代码 在代码文件夹中的Scenario.h类中的loadScenarioFile函数
+Scenario文件中的“想定一.scenario”是一个想定的xml格式

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+    <Name>Jeep2</Name>
+	<Part>BLUE</Part>
+	<ModelName>armyJeep</ModelName>
+	<Init>
+       <Pos>
+	     <Lon>113.7952</Lon>
+		 <Lat>34.0289</Lat>
+		 <Alt>0.0</Alt>
+	   </Pos>
+	   <Speed>200.0</Speed>
+	   <Head>0.0</Head>
+	</Init>
+	<WeaponList>
+	   <weapon name="ATA" count = "4"/>
+	   <weapon name="ATG" count = "4"/>
+	</WeaponList>
+	<Route>
+	    <Point>
+		    <Lon>120.3</Lon>
+		    <Lat>27.0</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+		 <Point>
+		    <Lon>121.0</Lon>
+		    <Lat>27.3</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+		 <Point>
+		    <Lon>122.0</Lon>
+		    <Lat>28.4</Lat>
+		    <Alt>0.0</Alt>
+			<Speed>200.0</Speed>
+			<WaitTime>0.0</WaitTime>
+		</Point>
+	</Route>
+</Entity>

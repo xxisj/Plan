@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+    <Name>TARGET2</Name>
+	<!--<Part>RED</Part>-->
+	<Type>TARGET</Type><!--BASE/TARGET-->
+	<ModelName>radar</ModelName>
+	<Init>
+       <Pos>
+	     <Lon>112.991172</Lon>
+		 <Lat>28.207738</Lat>
+		 <Alt>150.0</Alt>
+	   </Pos>
+	   <HitPoint>2</HitPoint><!--如果为Target，则拥有这个属性-->
+	   <StartTime>0</StartTime><!--如果为Target，则拥有这个属性-->
+	   <EndTime>1000</EndTime><!--如果为Target，则拥有这个属性-->
+	   <DesiredDir>240</DesiredDir><!--0~360-->
+	</Init>
+</Entity>
